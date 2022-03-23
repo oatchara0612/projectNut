@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VAT</string>
+    <string name="wel">Welcome</string>
+    <string name="app">VAT 7 %</string>
+    <string name="by">By</string>
+    <string name="name">Nuttawut Na Chiangmai</string>
+    <string name="ID">ID: 6204101316</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="play">play</string>
+    <string name="exist">exist</string>
+    <string name="cal">calculate</string>
+    <string name="result">Result</string>
+    <string name="baht">Baht</string>
+    <string name="editnumber">Edit Number</string>
+</resources>

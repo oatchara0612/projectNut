@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">คำนวณภาษีมูลค่าเพิ่ม</string>
+    <string name="wel">ยินดีต้อนรับ</string>
+    <string name="app">VAT 7 %</string>
+    <string name="by">จัดทำโดย</string>
+    <string name="name">นายณัฐวัฒิ ณ เชียงใหม่</string>
+    <string name="ID">รหัส : 6204101316</string>
+    <string name="start">เริ่ม</string>
+    <string name="stop">หยุด</string>
+    <string name="play">เล่น</string>
+    <string name="exist">ออก</string>
+    <string name="cal">คำนวณ</string>
+    <string name="result">ผลลัพธ์</string>
+    <string name="baht">บาท</string>
+    <string name="editnumber">แก้ไขค่า</string>
+</resources>
